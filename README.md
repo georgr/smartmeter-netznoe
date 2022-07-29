@@ -17,7 +17,7 @@ AES decryption ```pip3 install pycryptodomex```
 
 ## usage
 
-```
+```python
  # sample key and data from evn netz noe
  # https://www.netz-noe.at/Download-(1)/Smart-Meter/218_9_SmartMeter_Kundenschnittstelle_lektoriert_14.aspx
     
@@ -30,7 +30,7 @@ AES decryption ```pip3 install pycryptodomex```
 
 ## sample output
 
-```
+```python
 {
     'timestamp': datetime.datetime(2021, 9, 27, 9, 47, 15), 
     'a_plus': 12937, 
